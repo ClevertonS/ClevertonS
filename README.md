@@ -1,9 +1,10 @@
 ### Olá!!! Me Chamo Cleverton Teixeira 😁
 ##
 
-- 🌱 Estudando React.js
+- 🌱 Estudando React.js / NextJs / Flutter
 - 📫 Contate-me no email: clevertons.b.t@gmail.com
 - 😄 Pronouns: ele/dele
+- 📖 Projeto AluraGeek: https://github.com/ClevertonS/Alura-Geek-Store
 ## 
 
 <div>
