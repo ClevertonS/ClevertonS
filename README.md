@@ -1,7 +1,7 @@
 ### Olá!!! Me Chamo Cleverton Teixeira 😁
 ##
 
-- 🌱 Estudando React.js / NextJs / Flutter
+- C# | .Net | ASP.NET Core | EF Core | Javascript | ReactJs | NextJs | Python | Docker 
 - 📫 Contate-me no email: clevertons.b.t@gmail.com
 - 😄 Pronouns: ele/dele
 - 📖 Projeto AluraGeek: https://github.com/ClevertonS/Alura-Geek-Store
